@@ -1,0 +1,1 @@
+This is my first full HTML page. It should show that I can create an HTML page from scratch not including any CSS at this moment.
